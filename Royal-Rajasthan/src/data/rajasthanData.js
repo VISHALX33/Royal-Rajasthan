@@ -7,9 +7,7 @@ import Birlamandir from "../assets/Birlamandir.jpg"
 import BrijVilasPalace from "../assets/BrijVilasPalace.jpg"
 import chambalgarden from "../assets/chambalgarden.jpg"
 import citypalace from "../assets/citypalace.jpg"
-import AlbertHallMuseum from "../assets/AlbertHallMuseum.jpg"
-import AlbertHallMuseum from "../assets/AlbertHallMuseum.jpg"
-import AlbertHallMuseum from "../assets/AlbertHallMuseum.jpg"
+
 
 // import gandhi from "../assets/gandhi.jpg"
 
